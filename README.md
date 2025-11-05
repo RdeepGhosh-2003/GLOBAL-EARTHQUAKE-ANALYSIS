@@ -87,4 +87,4 @@ The dataset includes global earthquake records with the following key fields:
 * 📈 **Intensity correlation:** Higher magnitudes correspond with stronger CDI/MMI and significance values.
 * 🌊 **Tsunami link:** Tsunami events show **lower depth** and **higher significance**.
 
-This project combines data analytics and geoscience visualization to understand earthquake behavior and tsunami risks across the globe.* 🌍
+This project combines data analytics and geoscience visualization to understand earthquake behavior and tsunami risks across the globe.*
